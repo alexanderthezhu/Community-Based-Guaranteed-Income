@@ -1,6 +1,6 @@
 This is the python script used to calculate who sends to whom for the Community Guaranteed Income program. It's very simple. 
 
-In short: You contribute 7% of your monthly post-tax income to a pool, and the average is distributed to all participants.
+In short: You pledge 7% of your monthly post-tax income, we calculate the average, and people who make above the average send money to people who make below it.
 Example: If you make $70,000 per year, you contribute ~$260. If the pooled average is $50,000 per year, then you would receive ~$186 back. If you're unemployed, you would receive ~$186 from a community member.
 
 Summary of the pilot program's results from April 2025:
